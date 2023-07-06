@@ -29,7 +29,7 @@
         },
         {
             "name": "mosquitto (local)",
-            "host": "localhost",
+            "host": "172.28.16.1",
             "port": 1883,
             "clientId": "vsmqtt_client"
         }
